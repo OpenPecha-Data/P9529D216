@@ -1,0 +1,29 @@
+id: P9529D216
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1GS58457
+  instance_id: http://purl.bdrc.io/resource/IE1GS58457
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དངུལ་གྱི་རྣ་ལོང་།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1GS58456
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    6fd279d9c12c4ba498572c1c94424107:
+      title: པོད ༡་དངུལ་གྱི་རྣ་ལོང
+      volume_number: 1
+      base_file: UT1GS58457_I1GS58459_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE2E6F39455C65BA8
+      image_group: I1GS58459
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1GS58457
+  - http://purl.bdrc.io/resource/W1GS58457
+  ocr_software: Namsel
+created_at: '2021-12-22T10:27:36.874870'
+last_modified_at: '2021-12-22T10:27:36.874876'
